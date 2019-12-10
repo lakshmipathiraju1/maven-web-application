@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.208.183:8081/repository/maveen-release/</url>
+	      <url>http://13.233.121.49:8081/repository/maveen-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.208.183:8081/repository/maveen-snapshot/</url>
+	      <url>http://13.233.121.49:8081/repository/maveen-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
