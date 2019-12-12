@@ -14,8 +14,11 @@
 <hr>
 <div style="text-align: center;">
 	<span>
+		<center>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
+		</center>
 	</span>
+	<br/>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
