@@ -8,7 +8,7 @@
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
-<body>
+<body style="background:yellow">
 <h1 align="center" style="color:red" >Welcome to Mithun Technologies.</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios RAJU</h1>
 <hr>
