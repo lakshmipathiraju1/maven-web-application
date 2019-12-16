@@ -9,7 +9,7 @@
 </head>
 </head>
 <body style="background:yellow">
-	<header style="weight:100%,height:200px,background-color:green">
+	<header style="weight:100%,height:200px,background:green">
 		<h1>
 			<marquee>MITUN TECHNOLOGIES</marquee>
 		</h1>
