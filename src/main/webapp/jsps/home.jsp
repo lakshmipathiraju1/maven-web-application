@@ -9,9 +9,9 @@
 </head>
 </head>
 <body style="background:yellow">
-	<header style="weight:100%,height:200px,color:green">
+	<header style="weight:100%,height:200px,background-color:green">
 		<h1>
-			<marque>MITUN TECHNOLOGIES</marque>
+			<marquee>MITUN TECHNOLOGIES</marquee>
 		</h1>
 	</header>
 <h1 align="center" style="color:red" >Welcome to Mithun Technologies.</h1>
