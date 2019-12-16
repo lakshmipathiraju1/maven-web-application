@@ -11,7 +11,7 @@
 <body style="background:yellow">
 	<header style="weight:100%,height:200px,color:green">
 		<h1>
-			MITUN TECHNOLOGIES
+			<marque>MITUN TECHNOLOGIES</marque>
 		</h1>
 	</header>
 <h1 align="center" style="color:red" >Welcome to Mithun Technologies.</h1>
