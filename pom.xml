@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.95.177:8081/repository/raju1-release/</url>
+	      <url>http://13.232.229.234:8081/repository/pipeline-relase/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.95.177:8081/repository/raju2-snapshot/</url>
+	      <url>http://13.232.229.234:8081/repository/pipe-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
