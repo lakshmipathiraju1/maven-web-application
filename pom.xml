@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://ec2-13-127-113-35.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
+		<sonar.host.url>http://ec2-13-233-46-246.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
 		<sonar.login>c8cf93df35e6b46ff3984b3f32fe21d0f194cf81</sonar.login>
 		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-235-83-175.ap-south-1.compute.amazonaws.com:8081/repository/pardhu_relesed/</url>
+	      <url>http://ec2-52-66-113-151.ap-south-1.compute.amazonaws.com:8081/repository/pardhu_relesed/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-235-83-175.ap-south-1.compute.amazonaws.com:8081/repository/pardhu_snapshot/</url>
+	      <url>http://ec2-52-66-113-151.ap-south-1.compute.amazonaws.com:8081/repository/pardhu_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
